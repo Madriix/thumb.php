@@ -1,0 +1,6 @@
+	thumb.php
+	______________________________________________________________________ 
+	Creates a thumbnailed image based on info passed to it via $_GET. 
+	
+	Images are cached on the server, so server processing overhead is only 
+	needed for the first time the script runs on a particular image.
